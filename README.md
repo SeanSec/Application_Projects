@@ -1,1 +1,2 @@
 # Application_Projects
+I'm Sean Cobb, this is a repository I've created for my resume. This repository contains projects I did while attending Colorado State University. I add to this frequently and this README will give a brief summary of the projects, my role, my work, and the results. Any potential employers should read the summaries contained in this document to understand the purpose behind these projects.
