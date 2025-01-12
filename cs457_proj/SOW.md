@@ -16,7 +16,6 @@ cross-network multiplayer interaction.
 
 ## Scope:
 ### Inclusions:
-[List the specific tasks, features, or components that will be included in the project.]
   * Multiplayer usability
   * Turn based gameplay
   * Clear terminal-based messages outlining rules and in-game developments
